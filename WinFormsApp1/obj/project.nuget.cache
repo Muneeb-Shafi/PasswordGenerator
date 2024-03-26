@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WGUTl8tYGlSAfuDYsL52kqnNoghCjlc3WdNFFnVrLUFREqu6SXk/2n2Xd+q2/FFi4Pxi/7xHqJYjvr6YBuiXZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\source\\repos\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\sweetalert\\1.0.0\\sweetalert.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
